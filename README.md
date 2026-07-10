@@ -212,13 +212,7 @@ This project is licensed under the MIT License.
 ---
 
 # 👨‍💻 Author
-
-**Himanshi Sharma**
-
-GitHub: https://github.com/YOUR_USERNAME
-
-LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-
+Deepanshu jangid
 ---
 
 ⭐ If you found this project useful, please consider giving it a star!
